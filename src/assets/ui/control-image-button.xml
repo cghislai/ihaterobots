@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : control-image-button.xml
+    Created on : 4 mai 2011, 21:28
+    Author     : charly
+    Description:
+        Purpose of the document follows.
+-->
+<nifty-controls>
+   <controlDefinition style="nifty-button" name="imageButton" controller="ihaterobots.ui.controls.ImageButtonController" inputMapping="de.lessvoid.nifty.input.mapping.MenuInputMapping">
+      <panel style="#panel" focusable="true">
+         <image id="#image" style="#image" filename="$imageFilename">
+            <text id="#text" style="#text" text="$label"/>
+         </image>
+      </panel>
+   </controlDefinition>
+</nifty-controls>

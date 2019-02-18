@@ -1,0 +1,13 @@
+Thank you for playing i Hate Robots!
+
+This game was coded using java
+It uses the Slick library (http://slick.cokeandcode.com),
+which is itself based on the lwjgl (http://lwjgl.org/)
+It uses the nifty-gui toolkit (http://nifty-gui.lessvoid.com/)
+
+Music by Spleen (http://www.spleen-musical.com/)
+
+Code (and superb artwork) 
+by Charles Ghislain (charlyghislain@gmail.com)
+
+You are free to redistribute the game as you wish!
