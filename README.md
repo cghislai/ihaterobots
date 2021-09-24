@@ -14,6 +14,8 @@ Looking at the source, it used ant and was built on netbeans. I commit everythin
 - Create a `.iHateRobots` directory in your home (there is a bug, the game wont create it for you but rather throw an exception)
 - Run `java -Djava.library.path="lib/native" -jar IHateRobots.jar` from the extracted directory.
 
+NOTES: Running with openjdk 11 can be difficult, at least on 64bit systems. Using openjdk 8, it works fine
+
 ## How to play
 - Move around using arrows
 - Use left CTRL to trigger the digging tool.
