@@ -5,7 +5,9 @@ A 2D platform game, remake of the 1993 Software Creattions' Jetpack DOS classic.
 This was done in 2011 for a Slick2D (java 2D game library) competition. It was hosted on google code, but
 I neglected to export it while I had still time. 
 
-![Screenshot](http://i56.tinypic.com/14e9flw.png)
+Gameplay video:
+
+[![Gameplay video](https://img.youtube.com/vi/h7FILz2oU3A/0.jpg)](https://www.youtube.com/watch?v=h7FILz2oU3A)
 
 Looking at the source, it used ant and was built on netbeans. I commit everything just in case.
 
