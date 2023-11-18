@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<system additive="false" points="false">
+<emitter imageName="" name="NewEmitter_1304736857014" renderType="inherit" useAdditive="false" useOriented="false">
+<spawnInterval enabled="true" max="30.0" min="10.0"/>
+<spawnCount enabled="true" max="4.0" min="1.0"/>
+<initialLife enabled="true" max="300.0" min="100.0"/>
+<initialSize enabled="true" max="10.0" min="1.0"/>
+<xOffset enabled="true" max="0.0" min="0.0"/>
+<yOffset enabled="true" max="0.0" min="0.0"/>
+<initialDistance enabled="false" max="0.0" min="0.0"/>
+<speed enabled="true" max="200.0" min="100.0"/>
+<length enabled="false" max="1000.0" min="1000.0"/>
+<emitCount enabled="false" max="1000.0" min="1000.0"/>
+<spread type="random" value="17.0"/>
+<angularOffset type="simple" value="200.0"/>
+<growthFactor type="simple" value="0.0"/>
+<gravityFactor type="simple" value="-17.0"/>
+<windFactor type="simple" value="0.0"/>
+<startAlpha type="simple" value="255.0"/>
+<endAlpha type="simple" value="0.0"/>
+<alpha active="false" max="25" min="0" type="linear">
+<point x="0.0" y="1.0909091"/>
+<point x="0.36570248" y="0.0"/>
+<point x="1.0" y="0.0"/>
+</alpha>
+<size active="true" max="25" min="2" type="linear">
+<point x="0.0" y="2.0"/>
+<point x="0.7541322" y="15.800001"/>
+<point x="1.0" y="25.0"/>
+</size>
+<velocity active="false" max="1" min="0" type="linear">
+<point x="0.0" y="0.03272727"/>
+<point x="0.053719006" y="0.26909092"/>
+<point x="0.13636364" y="0.047272727"/>
+<point x="1.0" y="0.41454545"/>
+</velocity>
+<scaleY active="false" max="1" min="0" type="linear">
+<point x="0.0" y="0.0"/>
+<point x="1.0" y="1.0"/>
+</scaleY>
+<color>
+<step b="0.85490197" g="0.85490197" offset="0.0" r="0.85882354"/>
+<step b="0.30980393" g="0.30980393" offset="1.0" r="0.30980393"/>
+</color>
+</emitter>
+</system>

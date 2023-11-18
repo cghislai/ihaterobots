@@ -1,0 +1,12 @@
+Here are the basic controls of the map editor:
+
+- mouse or up/left/right/down move cursor
+- keep left shift pressed and move cursor to select a rectangle
+- press left mouse button or enter to put tile on selection
+- press right mouse button or backspace to remove tiles
+-- tiles will be removed sequentially on button press, 
+    starting from front to back
+
+- press C to clear map
+- press P to place player
+- press D to place door

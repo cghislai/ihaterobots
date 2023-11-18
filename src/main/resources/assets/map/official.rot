@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_24" class="java.beans.XMLDecoder"> 
+ <object class="com.charlyghislain.ihaterobots.game.serializables.MapRotation">
+  <void property="maps"> 
+   <object class="java.util.Collections" method="unmodifiableList"> 
+    <object class="java.util.ArrayList"> 
+
+     <void method="add"> 
+      <string>odetojetpack</string> 
+     </void> 
+     <void method="add"> 
+      <string>cascade</string> 
+     </void>      
+     <void method="add"> 
+      <string>meetthefire</string> 
+     </void> 
+<void method="add"> 
+      <string>sandladder</string> 
+     </void> 
+<void method="add"> 
+      <string>twins1</string> 
+     </void> 
+
+     <void method="add"> 
+      <string>3ways</string> 
+     </void> 
+<void method="add"> 
+      <string>donkeykong</string> 
+     </void> 
+<void method="add"> 
+      <string>unclesam</string> 
+     </void> 
+<void method="add"> 
+      <string>thetemple</string> 
+     </void>
+<!-- 10th :: -->
+<void method="add"> 
+      <string>goldrules</string>  
+     </void> 
+
+     <void method="add"> 
+<string>outtaspace</string> 
+     </void> 
+<void method="add"> 
+      <string>dejavu</string> 
+     </void> 
+<void method="add"> 
+      <string>snakes</string> 
+     </void> 
+     <void method="add"> 
+      <string>intothedirt</string> 
+     </void> 
+<void method="add"> 
+      <string>hangar</string>  
+     </void> 
+
+<void method="add"> 
+      <string>inthesky</string>  
+     </void> 
+     <void method="add"> 
+      <string>crossroad</string> 
+     </void> 
+<void method="add"> 
+      <string>queues</string> 
+     </void> 
+<void method="add"> 
+      <string>labyrintus</string> 
+     </void>
+
+<!-- 20th :: -->
+<void method="add"> 
+      <string>pyramid</string> 
+     </void> 
+
+<void method="add"> 
+      <string>dejadejavu</string> 
+     </void> 
+<void method="add"> 
+      <string>constructionsite</string> 
+     </void> 
+<void method="add"> 
+      <string>thecity</string> 
+     </void> 
+     <void method="add"> 
+      <string>rooms</string> 
+     </void> 
+<void method="add"> 
+      <string>twins</string> 
+     </void> 
+    </object> 
+   </object> 
+  </void> 
+  <void property="name"> 
+   <string>official</string> 
+  </void> 
+ </object> 
+</java> 
